@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://numlemon.github.io/deal-dee-review/sitemap.xml
